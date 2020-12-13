@@ -8,10 +8,10 @@ react: 130 lines
 
 use of component of react results in less code, and easier to maintain.
 
-2 problems:
+3 problems:
 
-1.css modules in react --- tagname affects other modules;
+1. css modules in react --- tagname affects other modules;
 
-2.vanila js import css not working.
+2. vanila js import css not working.
 
-3.pagebutton doesn't have ... in pagination package.
+3. pagebutton doesn't have ... in pagination package.
